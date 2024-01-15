@@ -106,9 +106,9 @@ public final class Constants {
         public static final double kWheelDiameterMeters = 0.15; // ??
 
         // Values from Robot Characterization Toolsuite
-        public static final double ksVolts = 0.127957; // 0.22
-        public static final double kvVoltSecondsPerMeter = 2.7085; // 1.98
-        public static final double kaVoltSecondsSquaredPerMeter = 0.31875; // .2
+        public static final double ksVolts = 0.15948; 
+        public static final double kvVoltSecondsPerMeter = 2.6913; 
+        public static final double kaVoltSecondsSquaredPerMeter = 0.077174; // .2
 
     }
 
